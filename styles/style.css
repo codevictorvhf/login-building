@@ -3,7 +3,7 @@
 /* Paleta de cores 
 
     Verde: #49a09d
-    Lilás: #5f2c82 
+    Lilás: #001721 
 */
 
 * {
@@ -17,7 +17,7 @@
 
 body,
 html {
-  background-color: #5f2c82;
+  background-color: #001721;
   height: 100vh;
   width: 100vw;
 }
@@ -41,7 +41,7 @@ section#login {
 }
 
 section#login div#image {
-  background: #5f2c82 url('../images/building.jpg') no-repeat top center;
+  background: #001721 url('../images/building.jpg') no-repeat top center;
   background-size: cover;
   height: 200px;
 }
