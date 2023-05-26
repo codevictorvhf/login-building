@@ -52,7 +52,7 @@ section#login div#image {
 
 section#login div#form {
   display: block;
-  padding: 10px;
+  padding: 20px;
 }
 
 div#form h1 {
@@ -87,7 +87,7 @@ div.campo span {
 }
 
 div.campo > input {
-  background-color: #342624de;
+  background-color: black;
   font-size: 1em;
   width: calc(100% - 45px);
   height: 100%;
@@ -115,8 +115,9 @@ form input[type=submit] {
 }
 
 form input[type=submit]:hover {
-  background-color: #3a2b29c8;
+  background-color: rgb(41, 41, 41);
   border: 1px solid black;
+  font-weight: bold;
 }
 
 form a.button {
@@ -139,7 +140,7 @@ form a.button {
 form a.button:hover {
   background-color: #342624;
   font-weight: bold;
-  color: #634a49cf;
+  color: #8f7776c1;
 }
 
 form a.button span {
