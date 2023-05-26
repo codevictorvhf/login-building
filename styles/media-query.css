@@ -1,13 +1,13 @@
 @charset "utf-8";
 
-@media screen and (min-width: 768px) and (max-width: 992px) {
+@media screen and (min-width: 480px) and (max-width: 992px) {
   body {
     background-image: linear-gradient(to top, #594241, #342624);
   }
 
   section#login {
     width: 80vw;
-    height: 280px;
+    height: 290px;
   }
 
   section#login div#image {
