@@ -118,6 +118,7 @@ form input[type=submit] {
 
 form input[type=submit]:hover {
   background-color: #3a2b29c8;
+  border: 1px solid black;
 }
 
 form a.button {
