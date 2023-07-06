@@ -8,7 +8,7 @@ Tela de login. Responsiva e com uso de Flexbox.
 
 ## 🖥️ Projeto
 
-Projeto tela de login. Layout produzido para login de um site de um prédio/ condomínio. Layout responsivo, usando Flexbox. 
+Projeto tela de login. Layout produzido para login de um site de um prédio/ condomínio. Layout responsivo, usando Flexbox e media query. 
 
 ## 🚀 Tecnologias
 
